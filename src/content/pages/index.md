@@ -8,4 +8,6 @@ cta:
   ctaText: Know more
   ctaLink: /about
 ---
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Developer with a passion for technology, lore and politics. Here you will find the content that will help you learn the building blocks of Web Development, and I hope you will find me to be a sufficient teacher. 
+
+*This site is made with Gatsby.js*
