@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Tesla Creative",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
+    "description": "Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole, edited by Meris ",
+    "siteUrl": "https://mooncastlegames.com",
     "image": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "twitterUsername": "@Fallen14399944"
   },
   "ga": "UA-XXXXXXXXX-X"
 }
