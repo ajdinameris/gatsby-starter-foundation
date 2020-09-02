@@ -8,9 +8,6 @@ A starter to launch your blazing fast personal website and a blog, Built with [G
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/stackrole/gatsby-starter-foundation)
 
-Need help launching your website? My DM's are open on <a href="https://twitter.com/stackrole">twitter</a>
-
-[![Gatsby Starter Foundation Screenshot](static/assets/screenshot.png)](https://foundation.stackrole.com)
 
 ## 👌 Features
 - A Blog and Personal website with Netlify CMS.
@@ -26,7 +23,6 @@ Need help launching your website? My DM's are open on <a href="https://twitter.c
 - Invite collaborators into Netlify CMS, without giving access to your Github account via Git Gateway
 - Gatsby Incremental Builds with Netlify.
 
-[![Check out Stackrole.com - A Jamstack marketplace](static/assets/twitter-header.jpg)](https://stackrole.com)
 
 ## 🚀 Quick Deploy
 Just click on the **Deploy to Netlify** button.
@@ -43,7 +39,6 @@ This would fork `gatsby-starter-foundation` to your Github account and start bui
 - [Install Locally](#install-locally)
 - [Folder Structure](#folder-structure)
 - [Learning Gatsby](#learning-gatsby)
-- [Thank you from Stackrole](#thank-you)
 
 ## ⚙ Access to Netlify CMS
 - Goto app.netlify.com > select your website from the list
@@ -137,16 +132,8 @@ Looking for more guidance? Full documentation for Gatsby lives [on the website](
 - **To dive straight into code samples, head [to our documentation](https://www.gatsbyjs.org/docs/).** In particular, check out the _Guides_, _API Reference_, and _Advanced Tutorials_ sections in the sidebar.
 
 
-## 🙏 Thank you
-We really appreciate you taking time to build your website with our `gatsby-starter-foundation`. 
-
-I would love to get your feedback and contributions. 
-
-Feel free to ping [@stackrole](stackrole) for help regarding your JAMstack website, our DM's are open. And do not forget to share you website with me 😊
 
 
 [gatsby]: https://gatsbyjs.org
 [netlifyCMS]: https://www.netlifycms.org
-[stackrole]: https://stackrole.com
-[twitter]: https://twitter.com/stackrole
-[custom-domain]: https://stackrole.com/adding-custom-domain-netlify
+[custom-domain]: https://teslacreative.netlify.app/
