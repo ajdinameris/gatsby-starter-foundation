@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Foundation",
+    "title": "Tesla Creative",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
+    "description": " Built with Gatsby and Netlify CMS. Made with ❤ by Tesla Creative",
+    "siteUrl": "https://teslacreative.netlify.app",
     "image": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "twitterUsername": "@teslacreative"
   },
   "ga": "UA-XXXXXXXXX-X"
 }
