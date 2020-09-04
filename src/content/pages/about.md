@@ -19,14 +19,12 @@ Ajdina will be making courses teaching beginners to intermediaries into Adobe Cr
 
 ![Adobe Creative Cloud](/assets/2020-04-02_12-16-59-pmcreative-cloud-icons.png "Adobe Creative Cloud")
 
-I will be teaching Web Development, HTML, CSS, JavaScript, React., Redux, Node.js,  Typescript, Express , and many more...
+I will be teaching Web Development: `HTML, CSS, JavaScript, React., Redux, Node.js,  Typescript, Express , and many more...`
 
 ![Tech](/assets/tech.png "Tech")
 
 The goal will be to make portfolio worthy projects, with a bit of something that a lot of other online courses lack, but is key for student to fully grasp the lectures, tests. Every few key steps into the course, the test will be presented to the student. requiring him to recall what he learned previously and do the task (test) on his own, boosting his confidence and engraving the knowledge into his mind. 
 
 Every Video series will be posted here, and will be discussed in details.
-
-
 
 That is all for now in this About page, thank you for reading all this and take care :)
