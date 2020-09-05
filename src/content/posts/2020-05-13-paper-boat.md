@@ -1,31 +1,31 @@
 ---
 template: blog-post
-title: Character design
-slug: /character-design
-date: 2020-05-23 23:40
-description: How to draw a character
-featuredImage: /assets/andrew-seaman-4fi_4q6_efm-unsplash.jpg
+title: "Crypto Crash caused by RTX 3000 launch "
+slug: /crypto-crash-caused-by-rtx-3000-launch
+date: 2020-09-04 23:40
+description: Cryptocurrency crash caused by the launch of nVidia RTX 3000 series
+featuredImage: /assets/geforce_rtx_3000.jpg
 ---
-In visual arts, a model sheet, also known as a character board, character sheet, character study or simply a study, is a document used to help standardize the appearance, poses, and gestures of a character in arts such as animation, comics, and video games.
+A terrible misfortune just struck those poor souls who mingle with Cryptocurrency trading (one of those souls is mine). We will be discussing on what happened, what should be done, how could it be predicted next time, and how to profit from this.
 
-Model sheets are required when [multiple artists](https://example.com) are involved in the production of an animated film, game, or comic to help maintain continuity in characters from scene to scene. In animation, one animator may only do one shot out of the several hundred that are required to complete an animated feature film. A character not drawn according to the production's standardized model is referred to as off-model.
+![RTX 3000 Series](/assets/geforce_rtx.jpg "RTX 3080 showcase")
 
-## For one beautiful night I knew what it was like to be a grandmother. Subjugated, yet honored.
+[NVIDIA announced](https://www.youtube.com/watch?v=E98hC9e__Xs&t=1964s) their 2nd gen Ray Tracing Graphics Cards, RTX 3000 series, on 1st of September 2020, and since the announcement the value of all mainstream Cryptocurrencies came crashing down, coming to a halt at the third day since the announcement. The loses were incredibly painful, as some have seen their portfolio value fall from 20% to 40% in mere 2 days, such falls unrecorded since grand burst of  Bitcoin bubble in December 2017.
 
-Yes! In your face, Gandhi! Ah, yes! John Quincy Adding Machine. He struck a chord with the voters when he pledged not to go on a killing spree. What are their names? I could if you hadn't turned on the light and shut off my stereo.
+**So how did this happen?** It's no secret that a big part of those who deal in Cryptocurrencies are Technology Enthusiasts (Cryptocurrency and Block-Chain being technologies themselves), so it's to be expected that they are likely to be interested in the latest and greatest of what NVIDIA has to offer. And oh boy did NVIDIA deliver. They broke the expected 20-40% performance increase which came with each new generation by showcasing 90-100% increase from last generation, and cutting the prices in order to stay competitive with consoles that are coming later this year. This prompted the mentioned Tech Enthusiasts to liquidize some of their portfolios so they can place a pre-orders on the upcoming Graphics Cards. Other traders saw the sudden spike in selling orders on their Cryptocurrency Trade Market, and in fear of missing out and being drained, they decided to liquidize too, causing chain reaction which lead to a 3 day constant value crash.
 
-1. Robot 1-X, save my friends! And Zoidberg!
-2. Soon enough.
-3. There's no part of that sentence I didn't like!
+![Etherium Fall](/assets/coindesk-eth-chart-2020-09-05-1-.png "Etherium Fall From 1st of September until the 4th")
 
-### The key to victory is discipline, and that means a well made bed. You will practice until you can make your bed in your sleep.
+If you currently hold the Cryptocurrencies, don't sell, wait out on the drama, and the value will be back soon enough. The value already started coming back to "normal", as the chain of fear started to break, traders are coming back to their natural habitat.
 
-Why am I sticky and naked? Did I miss something fun? We're also Santa Claus! Soothe us with sweet lies. Hi, I'm a naughty nurse, and I really need someone to talk to. $9.95 a minute.
+All of this was actually predicted by my significant other couple months ago. We were talking about why she should try and invest into cryptocurrency, but her argument was that it was to volatile for her taste, as she can't trust a "bunch of kiddies" who are going to sell their Cryptos as soon as a new Graphics Card drops. And thus, her prediction came true several months later, at September 1st, 2nd, 3rd, and 4th. And, believe it or not, her prediction will hold true in the future releases too. We can expect the similar outcome when the AMD drops their announcement for the Big Navi RX 6000 series, or their new line of Ryzen processors.
 
-* That could be 'my' beautiful soul sitting naked on a couch. If I could just learn to play this stupid thing.
-* We'll need to have a look inside you with this camera.
-* Fry! Quit doing the right thing, you jerk!
+**How to profit from this?** As you can imagine, those who predicted this outcome and sold their share of Cryptocurrencies as the announcement was dropped or before it, and came back today to buy it at significantly lower price, profited a large %percentage in just couple of days. Now that you know what caused this incident you can use that knowledge to your profit, and buy now while prices are low, and sell when the next announcement comes. Be prepared, and keep an eye on those announcements, or you can send me your email address and I can mail it to you not a moment too late.
 
-Who said that? SURE you can die! You want to die?! Aww, it's true. I've been hiding it for so long. I videotape every customer that comes in here, so that I may blackmail them later. Ah, computer dating. It's like pimping, but you rarely have to use the phrase "upside your head."
 
-Spare me your space age technobabble, Attila the Hun! We'll go deliver this crate like professionals, and then we'll go home. Aww, it's true. I've been hiding it for so long. Moving along… Please, Don-Bot… look into your hard drive, and open your mercy file!
+
+Thanks for reading my first Post. If you have enjoyed it, you can send me an email at: biz.meris@gmail.com and I will be glad to reply as soon as possible.
+
+
+
+Written by: Meris Tarhanis
