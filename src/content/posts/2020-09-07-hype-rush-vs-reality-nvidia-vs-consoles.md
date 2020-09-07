@@ -1,7 +1,7 @@
 ---
 template: blog-post
 title: Hype Rush vs Reality / NVIDIA vs Consoles
-slug: nvidia-vs-consoles
+slug: /nvidia-vs-consoles
 date: 2020-09-07 06:40
 description: NVIDIA vs Consoles, RTX 3000 series rushed to create hype before
   the consoles and AMD counterpart drops.
