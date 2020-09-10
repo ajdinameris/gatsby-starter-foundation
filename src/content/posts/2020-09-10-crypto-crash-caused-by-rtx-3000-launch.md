@@ -2,7 +2,7 @@
 template: blog-post
 title: "Crypto Crash caused by RTX 3000 launch "
 slug: /crypto-crash-caused-by-rtx-3000-launch
-date: 2020-09-10 06:44
+date: 2020-09-04 06:44
 description: Cryptocurrency crash caused by the launch of nVidia RTX 3000 series
 featuredImage: /assets/geforce_rtx_3000.jpg
 ---
