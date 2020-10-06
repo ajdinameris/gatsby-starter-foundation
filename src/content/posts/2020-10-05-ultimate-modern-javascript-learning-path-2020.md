@@ -39,8 +39,6 @@ Next on the list are **Variables**. You need to learn what variables are, how to
   * Block
 * Hoisting 
 
-
-
 ### Data Types and Data Structures
 
 Once you have a solid understanding of variables, you then move on to learn Data Types and Data Structures. JavaScript is loosely typed, dynamic language, so variables are not directly associated with any particular data type. What that means is that any variable can be assigned a value of all data types. In JavaScript 9 (nine) **Data Types** are defined:
@@ -66,9 +64,7 @@ Next on the list are built in JavaScript data structures. Theses **Data Structur
 * Set / Weak Set
 * Date
 
-
-
-### Type Conversion 
+### Type Conversion
 
 Once you understand data types and structures, the next topic you will want to check out is type conversion. When writing code, you will find yourself having to convert data from one type to the other. 
 
@@ -76,13 +72,9 @@ You can convert it yourself using the methods that are available, like `boolean.
 
 The other type conversion is **Implicit Type Conversion**, this is when JavaScript itself converts the data type in order to be able to run the code you have written. 
 
-
-
 ### Equality
 
 Learn the difference between **\==** and **\===** (the cause of many bugs when you are starting out with JavaScript)
-
-
 
 ### Loops
 
@@ -95,8 +87,6 @@ Next stop on the learning path are loops. You need to learn how to make them, br
 * for...in
 * for...of
 
-
-
 ### Control Flow
 
 Now, you will learn the technology behind AI, and all those programmer jokes that got you into programming in the first place. Things that you'll have to learn here are:
@@ -104,8 +94,6 @@ Now, you will learn the technology behind AI, and all those programmer jokes tha
 * if...else
 * switch
 * try/catch/throw (statements for error handling)
-
-
 
 ### Expressions and Operators
 
@@ -123,8 +111,6 @@ Next thing on the learning path are the many operators that you will use in Java
 * Comma Operator
 * Unary Operators
 
-
-
 ### Functions
 
 The last fundamental topic to learn is functions. Things to learn here are:
@@ -136,9 +122,7 @@ The last fundamental topic to learn is functions. Things to learn here are:
 * Scope
 * Arrow Functions
 
-
-
-## Advanced 
+## Advanced
 
 First off, congratulations for making it this far! But, just knowing fundamentals in JavaScript won't get you far unfortunately. If you wish to learn some of those popular frameworks, libraries, etc... you will have to learn the Advanced section of JavaScript as well. 
 
@@ -158,15 +142,13 @@ Once you know and understand closures, next good thing to know is function curry
 
 ### this (keyword)
 
-A bit confusing subject in the world of JavaScript.  **this** keyword changes it's value depending where it is used. You can determine the value of **this** keyword using 5 (five) simple rules: 
+A bit confusing subject in the world of JavaScript.  **`this`** keyword changes it's value depending where it is used. You can determine the value of **`this`** keyword using 5 (five) simple rules: 
 
 * Implicit Binding
 * Explicit Binding
 * new Binding
 * Lexical Binding
 * Default Binding
-
-
 
 ### Prototype
 
@@ -198,8 +180,6 @@ Next thing to learn are traditional methods JavaScript has available for running
 * Promises
 * async await
 
-
-
 ### Module System
 
 Last advanced topic in this section you will want to learn is about module system. You will learn how to split JavaScript code into different modules, which can then be exported and imported where needed. The topics to learn here are:
@@ -209,14 +189,64 @@ Last advanced topic in this section you will want to learn is about module syste
 * Import / Export]
 * Default and Named Exports
 
-
-
 ## Web APIs
 
-These are the topics you need to learn along the Fundamental and Advanced sections of JavaScript. These are not the part of JavaScript language itself, rather they are build on top of the core JavaScript language. Topics to learn here are:
+Third section in the JavaScript learning path. These are the topics you need to learn along the Fundamental and Advanced sections of JavaScript. These are not the part of JavaScript language itself, rather they are build on top of the core JavaScript language. Topics to learn here are:
 
 * DOM
 * XHR and Fetch
 * Storage
 * Video and Audio
 * Drawing Graphics
+
+
+
+## Tools and Misc
+
+Last section in JavaScript learning path. There are a few tools that can help you with your development, and are especially required when working with a team. 
+
+### Linters
+
+Linters are tools that check through your code and tell you if there are any errors present, what type of error they are and in which line of code they are. 
+
+**eslint** is recommended JavaScript linter to learn about.
+
+### Code Formatters
+
+Code formatters make sure your code is formatted correctly and according to the styling rules, and should fix any errors that are found. 
+
+**Prettier** is a popular choice, so give it a go.
+
+### Bundlers
+
+Bundlers are tools that make your code ready for production. They aim in optimization, making your code as small as possible before being uploaded to the server.  Popular bundlers are:
+
+* Webpack
+* Rollup
+* Parcel
+
+
+
+### TypeScript
+
+TypeScript is a nice to know tool, which I stumbled upon while learning Angular. TypeScript is a superset of JavaScript which compiles down to JavaScript which browsers can understand. Benefits of TypeScript are being able to use latest features in your code, and you get to set the types to your code. This static type checking can save you hours of debugging time, and help you find bugs that would only be found at runtime.
+
+
+
+## Disclaimer
+
+Everything written here is purely my take on this and is by no means the only way to learn JavaScript. The point of this post is for you to have a better understanding of the JavaScript knowledge tree, which has been divided in these four branches. Knowing all of this more then a strong base with which you can tackle on some of sought after JavaScript frameworks, like React, Angular, Node.js, etc... But it won't be enough to make you a FANG developer, and maybe just enough to understand cringey JavaScript jokes (If JavaScript had a child what would it's name be? JSON - HAHAHAHAHAHAhaahahah ha ha h, oh boy........) 
+
+Info time: I will soon make a video tutorial on Web Development fundamentals, and will follow it until the Advanced Stages of React and Node.js. The name of the project is "From homeless to FANG developer".
+
+
+
+If you have any suggestions, or think that I might have missed something, please let me know. You can reach out to me at: 
+
+biz.meris@gmail.com
+
+
+
+Thank you for reading this, and I hope it was helpful to you.
+
+Meris Tarhanis
